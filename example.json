@@ -1,3 +1,31 @@
-[
-
-    ]
+{
+    "Personal data" :
+    {
+        "Name" : "Taran Andrii Igorovich",
+        "Date of birth" : "November 12, 1987 (34 years old)",
+        "Contact information" : "mobile 0504206553, email anddp12@gmail.com"
+    },
+    "Education" : "Higher. DSAC&A, Heating and Gas Supply and Ventilation, master's degree, engineer-designer",
+    "Experience" :
+    {
+        "01.2020 to the present time" : "TELESVIT. Chief Engineer Department of Customer Service and Maintenance",
+        "10.2014 - 12.2019" : "TELESVIT. Head of Sector, Technical Service Sector",
+        "09.2009 - 06.2014" : "TELESVIT. Service specialist"
+    },
+    "Additional Information" :
+    {
+        "Confident PC user" : "MS Office, AutoCad, Visio Viever"
+    },
+    "About myself" :
+    {
+        "Personal qualities" : "Ambition, determination, diligence, ability to work in a team",
+        "Category driver's" : "Category B driver's license"
+    },
+    "Skills" : 
+    {
+        "1" : "Presentation", 
+        "2" : "Communication",
+        "3" : "Organization",
+        "4" : "Cooperation"
+    }
+}
