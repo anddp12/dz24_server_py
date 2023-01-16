@@ -4,13 +4,13 @@ print("")
 with open('master.html', 'r') as html:
     print(html.read())
     
-title = "Resume"
+title = "Additional_information"
 print(f"<title>{title}</title>")
 
 with open('head.html', 'r') as html:
     print(html.read())
-    
-with open('index.html', 'r') as html:
+        
+with open('additional_information.html', 'r') as html:
     print(html.read())
     
 with open('footer.html', 'r') as html:
